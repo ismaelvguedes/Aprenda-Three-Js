@@ -16,7 +16,7 @@ https://gist.github.com/gbaptista/691e436c6fc3acaeb856ebd8998f390c
 
 <h2>Aula 02</h2>
 <img src="aula_02_x3_debugger\_img\theme.png">
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="aula_02_x3_debugger\_img\gui.png">
   <img src="aula_02_x3_debugger\_img\fps.png">
 <div>
