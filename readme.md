@@ -16,8 +16,10 @@ https://gist.github.com/gbaptista/691e436c6fc3acaeb856ebd8998f390c
 
 <h2>Aula 02</h2>
 <img src="aula_02_x3_debugger\_img\theme.png">
-<img src="aula_02_x3_debugger\_img\fps.png">
-<img src="aula_02_x3_debugger\_img\gui.png">
+<div style="display: flex">
+  <img src="aula_02_x3_debugger\_img\fps.png">
+  <img src="aula_02_x3_debugger\_img\gui.png">
+<div>
 
 <h2>Aula 03</h2>
 <img src="aula_03_geometry\_img\theme.png">
