@@ -1,8 +1,9 @@
-<h1>CURSO DE THREE JS (BÁSICO)</h1>
+<h1>Aprenda Three Js (BÁSICO)</h1>
+
+<img src="https://miro.medium.com/max/724/1*6s_Dkfeldg35ySmAp0tPkQ.png">
 
 <h2>Documentação</h2>
 https://threejs.org/
-
 
 <h2>Dependências</h2>
 <a href="https://cdn.jsdelivr.net/npm/three@0.145.0/build/three.min.js">Three js</a><br>
