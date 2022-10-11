@@ -14,10 +14,10 @@ https://threejs.org/
 
 <h2>Aula 01</h2>
 <p>Crie uma pasta para armazenar os arquivos e abra ela no Visual Code</p>
-<code>
+<pre>
   <script src="https://cdn.jsdelivr.net/npm/three@0.145.0/build/three.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/three@0.145.0/examples/js/controls/OrbitControls.js"></script>
         <script src="js/config/config_01.js"></script>
         <script src="js/cenarios/cena_01.js"></script>
         
-</code>
+</pre>
