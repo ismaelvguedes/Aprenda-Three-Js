@@ -3,24 +3,11 @@
 <h2>Documentação</h2>
 https://threejs.org/
 
-<h2>Curso na Udemy</h2>
-https://www.udemy.com/course/fundamentos-3d-threejs-webgl/learn/lecture/25458072#overview
 
-<h2>Github do curso</h2>
-https://gist.github.com/gbaptista/691e436c6fc3acaeb856ebd8998f390c
+<h2>Dependências</h2>
+<a href="https://cdn.jsdelivr.net/npm/three@0.145.0/build/three.min.js">Three js</a>
+<a href="https://cdn.jsdelivr.net/npm/three@0.145.0/examples/js/controls/OrbitControls.js">Orbit Controls</a>
 
 <h1>Aulas</h1>
 
 <h2>Aula 01</h2>
-<img src="aula_01_basic\_img\theme.png">
-
-<h2>Aula 02</h2>
-<img src="aula_02_x3_debugger\_img\theme.png">
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="aula_02_x3_debugger\_img\gui.png">
-  <img src="aula_02_x3_debugger\_img\fps.png">
-<div>
-
-<h2>Aula 03</h2>
-<img src="aula_03_geometry\_img\theme.png">
-<img src="aula_03_geometry\_img\gui.png">
