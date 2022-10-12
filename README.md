@@ -21,7 +21,6 @@ https://threejs.org/
 <h2>Passo 3</h2>
 <p>Agora vamos criar nosso <code>index.html</code> e inserir essas linhas abaixo: </p>
 
-<pre>
 ```
 
 <!-- Documentação padrão html brasil -->
@@ -49,4 +48,3 @@ https://threejs.org/
     </body>
 </html>
 ´´´
-</pre>
