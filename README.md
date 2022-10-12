@@ -10,15 +10,12 @@ https://threejs.org/
   https://cdn.jsdelivr.net/npm/three@0.145.0/build/three.min.js</a><br>
 <a href="https://cdn.jsdelivr.net/npm/three@0.145.0/examples/js/controls/OrbitControls.js">Orbit Controls - https://cdn.jsdelivr.net/npm/three@0.145.0/examples/js/controls/OrbitControls.js</a>
 
-<h1>Aula 01</h1>
+<h1>Aula 01 - Instalação e configuração:</h1>
 
 <h2>Passo 1</h2>
-<p>Crie uma pasta <code>AprendaThreeJs</code> para armazenar os arquivos e abra ela no Visual Code.</p>
+<p>Crie uma pasta <code>AprendaThreeJs</code> para armazenar os arquivos e abra ela no Visual Code.<br> E crie três pastas para armazenar os arquivos <code>css</code>,<code>js</code> e <code>img</code>.</p>
 
 <h2>Passo 2</h2>
-<p>Crie três pastas para armazenar os arquivos <code>css</code>,<code>js</code> e <code>img</code>.</p>
-
-<h2>Passo 3</h2>
 <p>Agora vamos criar nosso <code>index.html</code> e inserir essas linhas abaixo: </p>
 
 ```
@@ -27,7 +24,7 @@ https://threejs.org/
     <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="X-UA-Compatible">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
         <title>Aprenda Three Js</title>
@@ -45,11 +42,13 @@ https://threejs.org/
 </html>
 ```
 
-<h2>Passo 4</h2>
 <p>Adicione uma <code>div</code> dentro do comentário <code>Codigo</code> para usarmos de tela: </p>
+
 ```
+<!-- Aqui será criado um canvas WebGL -->
 <div id="janela"></div>
 ```
+
 <p>Depois adicione as dependências: </p>
 
 ```
