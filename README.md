@@ -11,8 +11,7 @@ https://threejs.org/
 <a href="https://cdn.jsdelivr.net/npm/three@0.145.0/examples/js/controls/OrbitControls.js">Orbit Controls - https://cdn.jsdelivr.net/npm/three@0.145.0/examples/js/controls/OrbitControls.js</a>
 
 <h1>Aula 01</h1>
-<p>Crie uma pasta para armazenar os arquivos e abra ela no Visual Code:</p>
-<code>Aprenda Three Js</code>
+<p>Crie uma pasta <code>Aprenda Three Js</code> para armazenar os arquivos e abra ela no Visual Code:</p>
 <br>
 <p>Crie uma pasta para armazenar os arquivos e abra ela no Visual Code:</p>
 <pre>
