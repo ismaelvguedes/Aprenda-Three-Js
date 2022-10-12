@@ -10,11 +10,10 @@ https://threejs.org/
   https://cdn.jsdelivr.net/npm/three@0.145.0/build/three.min.js</a><br>
 <a href="https://cdn.jsdelivr.net/npm/three@0.145.0/examples/js/controls/OrbitControls.js">Orbit Controls - https://cdn.jsdelivr.net/npm/three@0.145.0/examples/js/controls/OrbitControls.js</a>
 
-<h1>Aulas</h1>
-
-<h2>Aula 01</h2>
+<h1>Aula 01</h1>
 <p>Crie uma pasta para armazenar os arquivos e abra ela no Visual Code:</p>
 <code>Aprenda Three Js</code>
+<br>
 <p>Crie uma pasta para armazenar os arquivos e abra ela no Visual Code:</p>
 <pre>
      
