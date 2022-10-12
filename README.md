@@ -15,10 +15,10 @@ https://threejs.org/
 <h2>Passo 1</h2>
 <p>Crie uma pasta <code>AprendaThreeJs</code> para armazenar os arquivos e abra ela no Visual Code.</p>
 
-##Passo 
-<p>Crie trÊs pastas para armazenar os arquivos <code>css</code>,<code>js</code> e <code>img</code>.</p>
+<h2>Passo 2</h2>
+<p>Crie três pastas para armazenar os arquivos <code>css</code>,<code>js</code> e <code>img</code>.</p>
 
-##Passo 3
+<h2>Passo 3</h2>
 <p>Agora vamos criar nosso <code>index.html</code> e inserir essas linhas abaixo: </p>
 
 ```
@@ -38,8 +38,24 @@ https://threejs.org/
     <body>
     
         <!-- Codigo -->
+        
+        <!-- Fim -->
 
     </body>
 </html>
 ```
-y
+
+<h2>Passo 4</h2>
+<p>Adicione uma <code>div</code> dentro do comentário <code>Codigo</code> para usarmos de tela: </p>
+``` {r }
+<div id="janela"></div>
+```
+
+<h2>Passo 5</h2>
+<p>Depois adicione as dependências: </p>
+
+```
+<!-- Importando dependências CDN - Three Js v0.145.0 -->
+<script src="https://cdn.jsdelivr.net/npm/three@0.145.0/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.145.0/examples/js/controls/OrbitControls.js"></script>
+```
