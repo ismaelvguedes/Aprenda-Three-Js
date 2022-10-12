@@ -22,7 +22,6 @@ https://threejs.org/
 <p>Agora vamos criar nosso <code>index.html</code> e inserir essas linhas abaixo: </p>
 
 ```
-
 <!-- Documentação padrão html brasil -->
 <!DOCTYPE html>
     <html lang="pt-br">
