@@ -12,9 +12,11 @@ https://threejs.org/
 
 <h1>Aula 01</h1>
 <h2>Passo 1</h2>
-<p>Crie uma pasta <code>AprendaThreeJs</code> para armazenar os arquivos e abra ela no Visual Code:</p>
+<p>Crie uma pasta <code>AprendaThreeJs</code> para armazenar os arquivos e abra ela no Visual Code.</p>
 <h2>Passo 2</h2>
-<p>Crie trÊs pastas para armazenar os arquivos <code>css</code>,<code>js</code> e <code>img</code>e abra ela no Visual Code:</p>
+<p>Crie trÊs pastas para armazenar os arquivos <code>css</code>,<code>js</code> e <code>img</code>.</p>
+<h2>Passo 3</h2>
+<p>Agora vamos criar nosso <code>index.html</code> e inserir essas linhas abaixo: </p>
 <pre>
      
 </pre>
