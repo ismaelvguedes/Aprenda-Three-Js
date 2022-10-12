@@ -21,7 +21,8 @@ https://threejs.org/
 <h2>Passo 3</h2>
 <p>Agora vamos criar nosso <code>index.html</code> e inserir essas linhas abaixo: </p>
 
-<pre>```
+<pre>
+```
 <!-- Documentação padrão html brasil -->
 <!DOCTYPE html>
     <html lang="pt-br">
@@ -45,5 +46,5 @@ https://threejs.org/
         <script src="js/cenarios/cena_01.js"></script>
 
     </body>
-</html>```
+</html>´´´
 </pre>
