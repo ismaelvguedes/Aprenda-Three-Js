@@ -56,3 +56,29 @@ https://threejs.org/
 <script src="https://cdn.jsdelivr.net/npm/three@0.145.0/build/three.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/three@0.145.0/examples/js/controls/OrbitControls.js"></script>
 ```
+<h2>Passo 3</h2>
+<p>Agora vamos criar nosso <code>estilo_index.css</code> dentro da pasta <code>css</code> e inserir essas linhas abaixo: </p>
+
+```
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --corFundo: #333333
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    
+    background-color: var(--corFundo);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+```
