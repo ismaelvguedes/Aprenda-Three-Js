@@ -47,11 +47,9 @@ https://threejs.org/
 
 <h2>Passo 4</h2>
 <p>Adicione uma <code>div</code> dentro do comentário <code>Codigo</code> para usarmos de tela: </p>
-``` {r }
+```
 <div id="janela"></div>
 ```
-
-<h2>Passo 5</h2>
 <p>Depois adicione as dependências: </p>
 
 ```
