@@ -18,7 +18,7 @@ https://threejs.org/
 <h2>Passo 2</h2>
 <p>Agora vamos criar nosso <code>index.html</code> e inserir essas linhas abaixo: </p>
 
-```
+```html
 <!-- Documentação padrão html brasil -->
 <!DOCTYPE html>
     <html lang="pt-br">
@@ -44,14 +44,14 @@ https://threejs.org/
 
 <p>Adicione uma <code>div</code> dentro do comentário <code>Codigo</code> para usarmos de tela: </p>
 
-```
+```html
 <!-- Aqui será criado um canvas WebGL -->
 <div id="janela"></div>
 ```
 
 <p>Depois adicione as dependências: </p>
 
-```
+```html
 <!-- Importando dependências CDN - Three Js v0.145.0 -->
 <script src="https://cdn.jsdelivr.net/npm/three@0.145.0/build/three.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/three@0.145.0/examples/js/controls/OrbitControls.js"></script>
@@ -59,7 +59,7 @@ https://threejs.org/
 <h2>Passo 3</h2>
 <p>Agora vamos criar nosso <code>estilo_index.css</code> dentro da pasta <code>css</code> e inserir essas linhas abaixo: </p>
 
-```
+```css
 @charset "utf-8";
 
 * {
